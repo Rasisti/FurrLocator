@@ -12,7 +12,7 @@ Welcome to FurrLocator! By accessing or using our website, you agree to comply w
 ## 1. Use of the Website
 
 1.1 **Eligibility**
-You must be at least 18 years old or the age of majority in your jurisdiction to use FurrLocator. By using the website, you represent and warrant that you meet these requirements.
+You must be at least 13 years old or the age of majority in your jurisdiction to use FurrLocator. By using the website, you represent and warrant that you meet these requirements.
 
 1.2 **Account Creation**
 To access certain features, you may be required to create a temporary profile by providing a name, profile picture, and bio. You agree to provide accurate and truthful information and to keep your profile respectful and appropriate.

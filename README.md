@@ -73,9 +73,5 @@ We may update these Terms from time to time. Changes will be posted on this page
 
 ---
 
-## 7. Contact Us
 
-If you have any questions or concerns about these Terms, please contact us at [Insert Contact Email].
-
-Thank you for using FurrLocator! We hope you enjoy the experience while respecting others in the community.
 
